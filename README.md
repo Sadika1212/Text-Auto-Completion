@@ -5,6 +5,6 @@ This Streamlit app demonstrates text auto-completion using LSTM model. Users can
 ## Demo
 A Responsive and intuitive user interface is built using Streamlit:
 <p float="left">
-  <img src="/img/demo.png" width="480" />
+  <img src="/img/demo.png" width="680" />
 </p>
 
